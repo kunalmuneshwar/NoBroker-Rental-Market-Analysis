@@ -56,7 +56,7 @@ The dashboard was developed using Power BI, Power Query, DAX, and Python to tran
 * Property Type Analysis
 * Furnishing Distribution
 
-![Overview](Images/page1_overview.png)
+![Market Overview](Dashboard_Page-1.png)
 
 ---
 
@@ -68,7 +68,8 @@ The dashboard was developed using Power BI, Power Query, DAX, and Python to tran
 * Rent by Furnishing Status
 * Rent per SqFt by Property Type
 
-![Insights](Images/page2_insights.png)
+![Property Insights](Dashboard_Page-2.png)
+
 
 ---
 
@@ -79,7 +80,7 @@ The dashboard was developed using Power BI, Power Query, DAX, and Python to tran
 * Premium Segment Analysis
 * Luxury Market Insights
 
-![Premium Analysis](Images/page3_premium_analysis.png)
+![Premium Analysis](Dashboard_Page-3.png)
 
 ---
 
